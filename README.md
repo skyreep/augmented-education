@@ -25,7 +25,7 @@ A web-application built using AR QuickLook to allow for browser based augmented 
 ## Usage
 Want to contribute? Great!
 
-To enhance the theme, follow these steps:
+To enhance the application, follow these steps:
 <ul>
   <li>Fork the repo</li>
   <li>Create a new branch (git checkout -b improve-feature)</li>
