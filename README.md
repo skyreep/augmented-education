@@ -35,3 +35,10 @@ To enhance the theme, follow these steps:
   <li>Push to the branch (git push origin improve-feature)</li>
   <li>Create a Pull Request</li>
 </ul>
+
+## Future Development
+<ul>
+  <li>More models</li>
+  <li>Android support</li>
+  <li>Further UI/UX development</li>
+</ul>
