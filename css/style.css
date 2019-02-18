@@ -25,6 +25,10 @@ h1 {
   font-weight: 400;
 }
 
+.jumbotron {
+  opacity: 70%;
+}
+
 .alert {
     display: none;
 }
