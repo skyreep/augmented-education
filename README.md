@@ -41,5 +41,5 @@ To enhance the theme, follow these steps:
   <li>More models</li>
   <li>Android support</li>
   <li>Further UI/UX development</li>
-  <li>Linking directly to infividual USDZ models from NavBar anchors</li>
+  <li>Linking directly to individual USDZ models from NavBar anchors</li>
 </ul>
