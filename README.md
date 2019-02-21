@@ -43,3 +43,4 @@ To enhance the application, follow these steps:
   <li>Further UI/UX development</li>
   <li>Linking directly to individual USDZ models from NavBar anchors</li>
 </ul>
+ 
