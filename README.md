@@ -10,7 +10,7 @@ https://skyreep.github.io/augmented-education/
 
 ## Description
 
-A web-application built using AR QuickLook to allow for browser based augmented reality education models.
+A web-application built using AR QuickLook to allow for browser based augmented reality education models. Completed for an 8 hour rapid development cycle project in the CSCI-495 IS Capstone course at Coastal Carolina University.
 
 ## Dependencies
 
